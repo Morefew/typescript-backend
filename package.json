@@ -21,6 +21,7 @@
     "test:run": "vitest --run",
     "test:ui": "vitest --ui",
     "coverage": "vitest run --coverage",
+    "init": "node scripts/init.js",
     "prepare": "husky"
   },
   "repository": {
